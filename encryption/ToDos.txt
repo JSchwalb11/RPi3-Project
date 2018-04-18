@@ -1,0 +1,9 @@
+Austin:
+1.Optimize the time it takes to run the code
+2.Edit the code so it can run with a key size of other than 40
+3.Test latency on live drone flights
+
+Chase:
+1.Randomize the encryption more
+2.Find creative ways to decrypt our code other than brute force key discovery
+3.Snoop and test secureness of encypted packets
