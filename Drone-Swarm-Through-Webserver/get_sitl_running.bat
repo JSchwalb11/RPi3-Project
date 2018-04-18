@@ -1,1 +1,0 @@
-start cmd.exe /k "python poster.py"
